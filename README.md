@@ -47,9 +47,7 @@ option 150 ip 10.10.15.25 - määrab TFTP aadressi
 ## Telefoni teenuse seadistus 
 
 ``
-
 telephony-service - annab loa seadistada telefoni teenust
-
 ``
 
 ``
