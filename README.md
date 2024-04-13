@@ -1,4 +1,4 @@
-# Ruuter A Käsud 
+# Ruuter A Käsud 2811(Ruuter)
 
 ## ALGUS KÄSUD
 
@@ -73,7 +73,7 @@ number 112 - määrab sellele VoIP seadmele kõne numbri
 ``
 
 
-# Lüliti A käsud
+# Lüliti A käsud 24TT või muu (Ruuter)
 
 
 ##  VLAN seadistus
